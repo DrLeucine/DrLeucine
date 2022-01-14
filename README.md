@@ -1,8 +1,6 @@
 ### Hey there 👋
 
-I'm Leo, a 🧪 science enthusiast. 
-
-I'm a PhD student in Biomedical AI@Edinburgh University.
+I'm Leo, a PhD student in Biomedical AI@Edinburgh University.
 
 Previously@IBM, P&G and SIB. 
 
