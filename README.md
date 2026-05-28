@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Leo, a Senior Protein Dreamer at AstraZeneca (Biologics Engineering)
+I'm Leo, a Senior Protein Dreamer :)
 
 Check out my:
 
